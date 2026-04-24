@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.pyc
+website.zip
+index.html
+style.css
+script.js
